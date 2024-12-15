@@ -1,2 +1,2 @@
 # Kickstarter-Campaign-Success
-Predicting Kickstarter Campaign Success
+The analysis of past Kickstarter campaigns recommends that the board game company target raising $10,000 with a 30-day campaign in the US, where the majority of successful campaigns are held. Based on statistical insights, the client can expect approximately 500 backers. SQL was used for data wrangling and Python for data visualization to derive these insights. A realistic campaign goal, proper duration, and targeting the US market are key to maximizing the chances of success.
